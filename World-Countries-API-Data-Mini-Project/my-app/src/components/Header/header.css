@@ -1,0 +1,13 @@
+.header{
+    background-color: rgba(216, 191, 216, 0.194);
+    text-align: center;
+    padding: 20px;
+}
+
+.header h1{
+    color: rgba(248, 179, 6, 0.948);
+}
+
+.header p{
+    font-size: 1.1rem;
+}
